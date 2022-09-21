@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\bin\Debug\netcoreapp3.1\ImplicitExplicit.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\bin\Debug\netcoreapp3.1\ImplicitExplicit.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\bin\Debug\netcoreapp3.1\ImplicitExplicit.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\bin\Debug\netcoreapp3.1\ImplicitExplicit.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\bin\Debug\netcoreapp3.1\ImplicitExplicit.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\bin\Debug\netcoreapp3.1\ImplicitExplicit.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\obj\Debug\netcoreapp3.1\ImplicitExplicit.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\obj\Debug\netcoreapp3.1\ImplicitExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\obj\Debug\netcoreapp3.1\ImplicitExplicit.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\obj\Debug\netcoreapp3.1\ImplicitExplicit.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\obj\Debug\netcoreapp3.1\ImplicitExplicit.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\obj\Debug\netcoreapp3.1\ImplicitExplicit.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\obj\Debug\netcoreapp3.1\ImplicitExplicit.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\ImplicitExplicit\obj\Debug\netcoreapp3.1\ImplicitExplicit.genruntimeconfig.cache

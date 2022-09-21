@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13321092022\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.genruntimeconfig.cache
